@@ -1,0 +1,155 @@
+		Specially Automatic Nutritionist Device (S.A.N.D)
+
+		Height = 1.68 m
+		Weight = 65.00 kg
+
+
+		BMI = 23.13 kg per meter square
+
+		Comment upon BMI: Normal (between 18.5 to 25)
+
+
+		Ideal Body Weight = 61.12 kg
+
+
+
+		Energy Requirement = 2017.10 kcal/day
+
+
+		Calculation for Carbohydrate, Protein and Fat:
+
+		Quantity of Carbohydrate = 1210.26 kcal per day
+ 			or 302.57 gm of CHO
+
+		Quantity of Protein = 302.57 kcal per day
+			 or 75.64 gm of CNOH
+
+		Quantity of Fat = 504.28 kcal per day
+			 or 56.03 gm of Fat
+
+
+
+		Calculation for Carbohydrate:
+		--------------------------------
+		----Name----------------Serving----------CHO(gm)
+		Low Fat Milk-------------- 1 -------------12.00
+		Bread--------------------- 15 ------------225.00
+		Vegetable----------------- 4 -------------20.00
+		Fruits-------------------- 4 -------------40.00
+		Pulse (Low Concentreted)-- 2 -------------6.00
+		Pulse (High Concentreted)- 1 -------------13.00
+
+
+		Carbohydrate Acquired = 301.00 gm per day
+
+		Carbohydrate Required =  302.57gm per day
+		Rest of the CHO will be covered from Sugar: 0.16 serving size
+
+
+
+		Calculation for Protein:
+		------------------------
+		----Name----------------Serving--------CHON(gm)
+		Low Fat Milk---------------1-------------8.00
+		Bread----------------------15------------30.00
+		Vegetable------------------4------------=8.00
+		Pulse (Low Concentreted)---2-------------2.00
+		Pulse (High Concentreted)--1-------------5.40
+		Eggs-----------------------1.00----------6.70
+
+
+		Protein Acquired = 60.10 gm per day
+
+		Protein Required = 75.64 gm per day
+
+		Rest of the CHON will be covered from Medium Fat and Low Fat:
+		Medium Fat-----------------1.48-------------10.36 gm CHON
+		Low Fat--------------------0.74-------------5.18 gm CHON
+
+
+
+
+		Calculation for Fat:
+		------------------------
+		----Name----------------Serving----------Fat(gm)
+		Low Fat Milk---------------1--------------5.00
+		Eggs-----------------------1.00-----------6.70
+		Medium Fat-----------------1.48-----------14.80
+		Low Fat--------------------0.74-----------2.22
+
+
+		Fat Acquired = 28.72 gm per day
+
+		Fat Required = 56.03 gm per day
+
+		Rest of the Fat will be covered from Oil: 5.46 serving size 
+
+
+
+			BREAKFAST
+
+
+----Name------Serving------kcal--------------Description
+----Ruti------- 3.00 -------- 210.00 ---------- 3.00 pc medium size ata ruti
+--Vegetables--- 2 --------- 56 ---------- 1cup ladies finger /cabbage /Potato /Any vegetable
+----Egg------- 1.00 ----- 90.00 --------- 1 omlet hen's egg
+----Fruit------ 1 --------- 40 ---------- 1 small sized Banana /Guava
+----Milk------- 1 -------- 120 -----------1 glass 2 percent fat containing milk
+
+	Total kcal in the Morning = 516.00 kcal
+
+
+			MID_DAY SNACK
+
+
+----Name------Serving------kcal--------------Description
+----Biscuit---- 0.5 ------- 45 ---------- 2 pc salted Biscuits
+----Juice------ 1 --------- 90 ---------- 0.75 cup glass fruit juice
+
+	Total kcal in the Mid-day Snack = 135 kcal
+
+
+			LUNCH
+
+
+----Name------Serving------kcal--------------Description
+----Rice------- 4 -------- 280 --------== 2.0 cup boiled rice
+--Vegetables--- 2 --------- 56 ---------- Any kind of plant vegetable
+---Pulse------- 1 --------- 72 ---------- 0.5 cup high concentrated pulse of any kind
+--Meat/Fish---- 2 -------- 150 ---------- 2pc medium fat containing chicken / fish 
+---Fruit------- 1 --------- 40 ---------- 1 medium sized orange / 6 pc olive amla
+
+	Total kcal in the Lunch = 598.00 kcal
+
+
+			AFTERNOON
+
+
+----Name------Serving------kcal--------------Description
+---Noodles---- 2 ---- 160.00 ----------- 1.0 cup cooked Noodles
+
+	Total kcal in the Afternoon = 160.00 kcal
+
+
+			DINNER
+
+
+----Name------Serving----kcal------------Description
+----Ruti------- 3 ------ 210 -------- 3 pc medium sized ata ruti 
+--Vegetables--- 2 ------- 56 -------- 1 cup mixed vegetables vegetable
+---Pulse------- 2 ------- 30 -------- 1 cup low concentrated pulse of any kind
+--Meat/Fish---- 1 ------- 55 -------- low fat containing chicken / fish / meat 
+---Fruit------- 1 ------- 40 -------- 1 medium sized guava /apple / 1.5 cup popaya
+
+	Total kcal in the Dinner = 391.00 kcal
+
+
+
+		Sub Total kcal = (516.00 + 135 + 598.00 + 160.00 + 391.00) kcal
+			       = 1800.00 kcal
+
+		Oil = (5 * 45) kcal
+  		    = 225 kcal
+
+		Total kcal = (1800 + 225) kcal
+  		           = 2025 kcal
